@@ -1,0 +1,6 @@
+{
+  "name": "CineAI - AI Video Studio & Merger",
+  "description": "Generate AI videos from text prompts and photos with Veo 3.1 and motion engines, then trim, transition, and merge clips into cinematic videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
